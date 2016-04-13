@@ -10,4 +10,4 @@ def fizzbuzz(arg):
 	else:
 		print (arg)
 
-print (fizzbuzz(15))
+print (fizzbuzz(20))
